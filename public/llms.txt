@@ -1,0 +1,71 @@
+# UP STUDIO — Generative Engine Optimization Map
+
+> UP STUDIO is a strength training fitness studio built around a bold, community-driven philosophy. The brand speaks to athletic individuals and those seeking a courageous lifestyle transformation, emphasizing collective achievement and mutual support. The studio's identity combines high-performance energy with a warm sense of belonging — a place where serious training meets a tight-knit community working toward shared goals. The vibe is powerful, motivating, and inclusive, with a strong emphasis on long-term healthy living.
+
+---
+
+## Pages
+
+### בית
+https://up-studio-38919464.zappy5.app
+גלה את UP STUDIO: אימוני כוח קהילתיים שמחברים ביצועים גבוהים עם תחושת שייכות אמיתית. הצטרף למהפכת כושר ובריאות שתשנה את חייך מקצה לקצה.
+
+### תודה שפנית אלינו | UP STUDIO
+https://up-studio-38919464.zappy5.app/thank-you
+UP STUDIO - תודה שפנית אלינו | UP STUDIO
+
+## Legal & Policy
+
+### Privacy Policy
+https://up-studio-38919464.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://up-studio-38919464.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://up-studio-38919464.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://up-studio-38919464.zappy5.app
+- Endpoint: https://up-studio-38919464.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About UP STUDIO
+UP STUDIO is a strength training fitness studio built around a bold, community-driven philosophy. The brand speaks to athletic individuals and those seeking a courageous lifestyle transformation, emphasizing collective achievement and mutual support. The studio's identity combines high-performance energy with a warm sense of belonging — a place where serious training meets a tight-knit community working toward shared goals. The vibe is powerful, motivating, and inclusive, with a strong emphasis on long-term healthy living.
+
+## Target Audience
+- ספורטאים אתלטיים ואנשים שמחפשים שינוי אמיץ ואורח חיים בריא
+- ספורטאים אתלטיים
+- מחפשי שינוי אורח חיים
+- חובבי כושר קהילתיים
+
+## Industry
+Fitness & Wellness
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://up-studio-38919464.zappy5.app/sitemap.xml
+- Robots: https://up-studio-38919464.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://up-studio-38919464.zappy5.app/llms-full.txt
