@@ -2,13 +2,13 @@
 
 UP STUDIO is a strength training fitness studio built around a bold, community-driven philosophy. The brand speaks to athletic individuals and those seeking a courageous lifestyle transformation, emphasizing collective achievement and mutual support. The studio's identity combines high-performance energy with a warm sense of belonging — a place where serious training meets a tight-knit community working toward shared goals. The vibe is powerful, motivating, and inclusive, with a strong emphasis on long-term healthy living.
 
-Source: https://up-studio-38919464.zappy5.app
+Source: https://example.com
 
 ---
 
 ## הפוך לגרסה החזקה שלך — UP STUDIO
 
-URL: https://up-studio-38919464.zappy5.app
+URL: https://example.com
 Description: גלה את UP STUDIO: אימוני כוח קהילתיים שמחברים ביצועים גבוהים עם תחושת שייכות אמיתית. הצטרף למהפכת כושר ובריאות שתשנה את חייך מקצה לקצה.
 
 הפוך לגרסה החזקה שלך — UP STUDIO
@@ -729,7 +729,7 @@ UP STUDIO נבנה סביב ערבות הדדית — המתאמנים שלנו 
 
 ## מדיניות פרטיות
 
-URL: https://up-studio-38919464.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -996,7 +996,7 @@ UP STUDIO ("החברה", "אנו", "שלנו") מחויבת להגן על פרט
 
 ## הצהרת נגישות
 
-URL: https://up-studio-38919464.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1272,7 +1272,7 @@ UP STUDIO מחויבת להנגיש את השירותים לכלל הציבור.
 
 ## תנאי שימוש
 
-URL: https://up-studio-38919464.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -1567,7 +1567,7 @@ UP STUDIO מספקת Fitness & Wellness דרך האתר. השירותים כפו
 
 ## תודה שפנית אלינו | UP STUDIO
 
-URL: https://up-studio-38919464.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: UP STUDIO - תודה שפנית אלינו | UP STUDIO
 
 תודה שפנית אלינו | UP STUDIO
